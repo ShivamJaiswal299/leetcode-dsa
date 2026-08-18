@@ -14,6 +14,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -49,6 +50,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
@@ -88,6 +90,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 ## Counting
