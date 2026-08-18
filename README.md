@@ -14,6 +14,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -38,5 +39,6 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
