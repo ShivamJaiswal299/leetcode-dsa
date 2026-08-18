@@ -52,6 +52,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0031-next-permutation](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +94,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -102,5 +104,6 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
