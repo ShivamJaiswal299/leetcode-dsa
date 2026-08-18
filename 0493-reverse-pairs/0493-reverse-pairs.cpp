@@ -1,12 +1,14 @@
 class Solution {
 public:
     void merge(vector<int>& a,int low, int mid, int high){
-      vector <int> temp(high+1-low);
+      vector <int> temp(high+1-low); //for space efficiency
       int j=mid+1;
+      // main logic , we will traverse i and j on both path
       for(int i=low;i<=mid;i++){
         while(j<=high && a[i]>(long long)2*a[j]) j++;
         count+=j-(mid+1);
       }
+      // from here, normal merge sort
       int i=low,h=0;
       j=mid+1;
       while(i<=mid && j<=high){
@@ -26,7 +28,8 @@ public:
       }
     }
     int count=0;
-    int reversePairs(vector<int>& a) { //main fn
+    //main function
+    int reversePairs(vector<int>& a) { 
         mergeSort(a,0,a.size()-1);
         return count;
     }
