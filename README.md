@@ -42,6 +42,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -52,4 +53,8 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
