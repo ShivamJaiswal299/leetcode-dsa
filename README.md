@@ -24,6 +24,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0509-fibonacci-number) |
