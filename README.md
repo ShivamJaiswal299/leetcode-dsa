@@ -27,6 +27,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0001-two-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,5 +101,6 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
