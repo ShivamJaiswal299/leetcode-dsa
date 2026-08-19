@@ -8,6 +8,7 @@ public:
         for(int i=0;i<a.size();i++){
           currprePro*=a[i];
           currsufPro*=a[a.size()-i-1];
+          //first calculating max before checking zero
           maxprePro=max(maxprePro,currprePro);
           maxsufPro=max(maxsufPro,currsufPro);
           if(a[i]==0) currprePro=1;
