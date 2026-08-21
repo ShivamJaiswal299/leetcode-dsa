@@ -9,6 +9,6 @@ public:
           if(a[mid]<=a[high]) high=mid;
           else if(a[mid]>a[high])low=mid+1;
         }
-        return a[low];
+        return a[high];
     }
 };
