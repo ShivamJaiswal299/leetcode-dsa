@@ -16,6 +16,6 @@ public:
           else low=mid+1;
         }
       }
-      return a[low];//high or low , anything can work as loop stops when low==high.
+      return a[high];//high or low , anything can work as loop stops when low==high.
     }
     };
