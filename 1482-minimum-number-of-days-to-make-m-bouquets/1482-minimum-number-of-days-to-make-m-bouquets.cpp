@@ -4,7 +4,7 @@ public:
         int maxBloomday=1,n=a.size();
         if(n<(long long)m*k) return -1;//if total flowers are less then that are req, then its not possible.
         for(int i=0;i<n;i++) maxBloomday=max(maxBloomday,a[i]);
-        //binary search tech
+        //binary search tech.
         int low = 1,mid,high = maxBloomday,minDay=maxBloomday+1;
         while(low<=high){
           mid=low + (high-low)/2;
