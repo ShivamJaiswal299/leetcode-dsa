@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& a, int h) {
-      //to remember it- think of the brute force but then instead of trying all the k use binary search, how to know?? cuz when things are monotonic binary can help.
+      //to remember it- think of the brute force but then instead of trying all the k use binary search, how to know? cuz when things are monotonic binary can help.
         int n=a.size(),maxPiles=-1;
         for(int i=0;i<n;i++) maxPiles=max(maxPiles,a[i]);//finding max piles
         int low=1,mid,high=maxPiles;
