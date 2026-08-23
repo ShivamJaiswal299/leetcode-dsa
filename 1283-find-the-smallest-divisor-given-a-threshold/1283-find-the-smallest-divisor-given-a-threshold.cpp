@@ -7,7 +7,7 @@ public:
       while(low<=high){
         int mid = low + (high - low)/2;
         int temp=0;
-        for(int i=0;i<n;i++) temp+=(a[i]%mid==0)?(a[i]/mid):(a[i]/mid)+1;
+        for(int i=0;i<n;i++) temp+=(a[i]%mid==0)?(a[i]/mid):(a[i]/mid)+1;//ceiling division
         if(threshold>=temp) {
           minDiv=min(minDiv,mid);
           high=mid-1;
