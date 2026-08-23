@@ -2,7 +2,7 @@ class Solution {
 public:
     int minDays(vector<int>& a, int m, int k) {
         int maxBloomday=1,n=a.size();
-        if(n<(long long)m*k) return -1;//if total flowers are less then that are req, then its not possible
+        if(n<(long long)m*k) return -1;//if total flowers are less then that are req, then its not possible.
         for(int i=0;i<n;i++) maxBloomday=max(maxBloomday,a[i]);
         //binary search tech
         int low = 1,mid,high = maxBloomday,minDay=maxBloomday+1;
