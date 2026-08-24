@@ -84,6 +84,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -169,6 +170,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
