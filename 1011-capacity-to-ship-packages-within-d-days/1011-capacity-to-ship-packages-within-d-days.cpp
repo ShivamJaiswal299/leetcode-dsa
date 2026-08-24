@@ -21,7 +21,7 @@ public:
             if(tempWeight>=capacity){
               if(tempWeight>capacity) i--;//cuz the extra weight will not go in the ship that day
               daysLeft--;//day decreased
-              tempWeight=0;//as next day so weighting machine resets
+              tempWeight=0;//as next day so weighting machine resets.
             }
           }
           if(tempWeight) daysLeft--;//IMP CASE- note if the last ship goes little empty i.e. below capacity then that day will also count 
