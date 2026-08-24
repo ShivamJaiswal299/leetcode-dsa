@@ -26,7 +26,7 @@ public:
           }
           if(tempWeight) daysLeft--;//IMP CASE- note if the last ship goes little empty i.e. below capacity then that day will also count 
           //now will analyse days
-          if(daysLeft>=0) { //+ve means work done before time
+          if(daysLeft>=0) { //+ve means work done before time.
             minCapacity=min(minCapacity,mid);
             high=mid-1;
             }
