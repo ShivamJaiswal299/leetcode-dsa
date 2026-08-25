@@ -1,6 +1,7 @@
 class Solution {
 public:
     int splitArray(vector<int> &a, int students)  {
+      //this soln is of book allocation problem , just variable changes ,exactly same way
         int n =a.size(),maxPg=a[0],sumPg=0;
         if(students>n) return -1;
         for(int i=0;i<n;i++){
