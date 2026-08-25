@@ -3,12 +3,12 @@ public:
 //doing this as it is aggressive cow problem
     int maxDistance(vector<int>& a, int cows) {
       int n = a.size(),minPos=a[0],maxPos=a[0];
-      sort(a.begin(),a.end());
+      sort(a.begin(),a.end());//sorting neccesary
       for(int i=0;i<n;i++){
           minPos=min(minPos,a[i]);
           maxPos=max(maxPos,a[i]);
       }
-      int low = 1, mid, high= maxPos-minPos-(cows-1)+1;
+      int low = 1, mid, high= maxPos-minPos-(cows-1)+1; // this is what mac distance btw cows can be.
       int ans= -1;
       while(low<=high){
         mid = low + (high-low)/2;
@@ -17,14 +17,14 @@ public:
         tempcows--; // first place fixed for 1 cow
         int prevPos=a[0];
         for(int i=1;i<n;i++){
-          if((a[i]-prevPos)<tempDist) continue;
+          if((a[i]-prevPos)<tempDist) continue;//skipping it
           else if ((a[i]-prevPos)>=tempDist) {
             tempcows--;
             prevPos=a[i];
             }
         }
-        if(tempcows>0) high = mid -1;
-        else {
+        if(tempcows>0) high = mid -1;//cows are left but stalls are finished
+        else if(tempcows<=0){ //-ve or 0 means cows are finished but stalls are still left
           ans=mid;
           low = mid +1;
           }
