@@ -1,5 +1,6 @@
 class Solution {
 public:
+//done as same method as for book allocation.
     int splitArray(vector<int>& a, int subarr) {
       int n = a.size(),maxofa=a[0],sumofa=0;
       for(int x:a){
