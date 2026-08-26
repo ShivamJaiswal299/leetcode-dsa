@@ -1,43 +1,34 @@
 class Solution {
 public:
-    int splitArray(vector<int> &a, int students)  {
-      //this soln is of book allocation problem , just variable changes ,exactly same way
-        int n =a.size(),maxPg=a[0],sumPg=0;
-        if(students>n) return -1;
-        for(int i=0;i<n;i++){
-            maxPg=max(maxPg,a[i]);
-            sumPg+=a[i];
+    int splitArray(vector<int>& a, int subarr) {
+      int n = a.size(),maxofa=a[0],sumofa=0;
+      for(int x:a){
+        maxofa=max(maxofa,x);
+        sumofa+=x;
+      }
+      int low = maxofa, mid, high = sumofa;
+      int maxSum=sumofa;
+      while(low<=high){
+        int mid = low + (high - low)/2;
+        int tempSum = a[0];
+        int tempMax=-1,subarrLeft=subarr;
+        for(int i=1;i<n;i++){
+          if(tempSum+a[i]<=mid) tempSum+=a[i];
+          else if(tempSum+a[i]>mid){
+            tempMax=max(tempMax,tempSum);
+            subarrLeft--;
+            tempSum=a[i];
+          }
         }
-        int low = maxPg,mid,high=sumPg,ans=sumPg;
-        while(low<=high){
-            int mid = low + (high-low)/2;
-            int tempLimit = mid;
-            int studentsLeft=students;
-            int tempPg=a[0];
-            int maxPg=a[0];
-            for(int i=1;i<n;i++){
-                if(tempPg+a[i]<mid) tempPg+=a[i];
-                else if(tempPg+a[i]>mid) {
-                    maxPg=max(maxPg,tempPg);
-                    studentsLeft--;
-                    tempPg=a[i];
-                }//-------
-                else if(tempPg+a[i]==mid){
-                    maxPg=max(maxPg,mid);
-                    studentsLeft--;
-                    tempPg=0;
-                }
-            }
-            maxPg=max(maxPg,tempPg);
-            if(tempPg) studentsLeft--;
-            if(studentsLeft>=0) {
-                high = mid-1;
-                ans=min(ans, maxPg);
-                }
-            else if(studentsLeft<0) {
-                low=mid+1;
-            }
-        }
-        return ans;
+        tempMax=max(tempMax,tempSum);
+        if(tempSum) subarrLeft--;
+        if(subarrLeft>=0) {
+          maxSum=min(maxSum,tempMax);
+          high=mid-1;
+          }
+        else if(subarrLeft<0) low=mid+1;
+      }
+      return maxSum;
+
     }
 };
