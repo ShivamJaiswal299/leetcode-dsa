@@ -22,7 +22,7 @@ public:
           }
         }
         tempMax=max(tempMax,tempSum);
-        if(tempSum) subarrLeft--;
+        if(tempSum) subarrLeft--; //if condition is not req as tempSum is never -ve
         if(subarrLeft>=0) {
           maxSum=min(maxSum,tempMax);
           high=mid-1;
