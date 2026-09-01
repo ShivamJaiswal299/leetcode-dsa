@@ -17,9 +17,8 @@ public:
             int a2right = (mid2 < n2) ? a2[mid2]     : INT_MAX;
 
             if (a1left <= a2right && a2left <= a1right) {
-                if ((n1 + n2) % 2 != 0)
-                    return max(a1left, a2left);
-                return (max(a1left, a2left) + min(a1right, a2right)) / 2.0;
+                if ((n1 + n2) % 2 != 0) return max(a1left, a2left);
+                else return (max(a1left, a2left) + min(a1right, a2right)) / 2.0;
             }
             else if (a1left > a2right) {
                 high = mid1 - 1;
