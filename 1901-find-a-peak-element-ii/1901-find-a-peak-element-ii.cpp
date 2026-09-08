@@ -13,7 +13,7 @@ public:
         // checking its peak or not.
         if(( midrow-1<0 || (mat[midrow-1][maxidx]<maxele))  &&  ( midrow+1>=m || (mat[midrow+1][maxidx]<maxele))) return {midrow,maxidx};//expand the window to understand the condition imposed.
         else if(midrow-1>=0 && mat[midrow-1][maxidx]>maxele) high = midrow-1;//boundary checks are important
-        else if(midrow+1<=m && mat[midrow+1][maxidx]>maxele) low = midrow+1;//boundary checks are important
+        else if(midrow+1<m && mat[midrow+1][maxidx]>maxele) low = midrow+1;//boundary checks are important
       }
     return {-1,-1};
     }
