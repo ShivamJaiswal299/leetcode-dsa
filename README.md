@@ -92,6 +92,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1539-kth-missing-positive-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -152,6 +153,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0073-set-matrix-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +190,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
