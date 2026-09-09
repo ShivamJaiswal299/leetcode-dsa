@@ -25,6 +25,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -237,4 +238,8 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
