@@ -25,6 +25,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -116,6 +117,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0169-majority-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -135,6 +137,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0088-merge-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
