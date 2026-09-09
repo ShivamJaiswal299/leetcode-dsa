@@ -21,6 +21,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -56,6 +57,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -229,4 +231,8 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
