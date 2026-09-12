@@ -7,6 +7,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -21,6 +22,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -44,6 +46,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -261,4 +264,8 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
