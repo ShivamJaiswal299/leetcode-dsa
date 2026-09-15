@@ -11,6 +11,8 @@ public:
     void deleteNode(ListNode* node) {
         //we will copy the data of node->next in node the delete the node->next and connect node with node->next->next.
         node->val=node->next->val;
+        ListNode* temp = node->next;
         node->next=node->next->next;
+        delete temp;
     }
 };
