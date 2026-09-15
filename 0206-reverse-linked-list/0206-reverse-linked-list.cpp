@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+//iterative approach - curr will go on everynode (stops before last node ) , firstly we store curr->next so that its never lost  , then we can change curr->next to temp and temp always stores the previous node address that we previously visited. 
     ListNode* reverseList(ListNode* head) {
       if(head == nullptr) return nullptr;
       ListNode *currnext = nullptr, *temp= nullptr,*curr = head;
@@ -19,6 +20,7 @@ public:
         temp = curr;
         curr=currnext;
       }
+      //here the last node isnt connected as we stoped the loop before , so doing it manually.
       curr->next= temp;
       head = curr;
       return head;
