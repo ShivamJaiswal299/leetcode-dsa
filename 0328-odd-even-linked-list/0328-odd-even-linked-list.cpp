@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-      if(head==nullptr || head->next==nullptr || head->next->next==nullptr) return head;//if there are 0 or 1 or 2 nodes.
+      if(head==nullptr) return head;//if there are 0 nodes.
       ListNode *odd = head, *even = head->next, *evenhead=head->next;
       while((even!=nullptr && odd!=nullptr) && (even->next!=nullptr && odd->next!=nullptr)){
         odd->next=odd->next->next;
