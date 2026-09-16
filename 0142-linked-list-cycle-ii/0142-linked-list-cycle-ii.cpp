@@ -8,14 +8,13 @@
  */
 class Solution {
 public:
+//pure maths logic soln.
     ListNode *detectCycle(ListNode *head) {
         ListNode *turtle = head, *rabbit = head;
-        int turtleDis=0;
         ListNode *meetingpnt=nullptr;
         while(rabbit!=nullptr && rabbit->next!=nullptr){
           rabbit=rabbit->next->next;
           turtle=turtle->next;
-          turtleDis++;
           if(rabbit==turtle){
             meetingpnt = turtle;
             break;
