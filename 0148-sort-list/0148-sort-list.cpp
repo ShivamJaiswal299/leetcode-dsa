@@ -29,8 +29,8 @@ private:
       return turtle;
     }
     ListNode* merge2sortedLL(ListNode *i , ListNode *j){
-      ListNode *k = new ListNode(-1); //k is initialize with a dummy node as we want to excess k->next so we have to do it.
-      ListNode *khead=k;// we will delete the extra dummy node so we want this.
+      ListNode dummy;
+      ListNode *k = &dummy; //k is initialize with a dummy node as we want to excess k->next so we have to do it.
       while(i!=nullptr && j!=nullptr){
         if(i->val <= j->val){
           k->next = i;
@@ -51,9 +51,6 @@ private:
         j=j->next;
         k=k->next;
       }
-      ListNode *temp = khead;
-      khead=khead->next;
-      delete temp;
-      return khead;
+      return (&dummy)->next;
     }
 };
