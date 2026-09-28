@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+// ---------------------self made function-------------------------
     ListNode* reverseLL(ListNode* head){
       if(head==nullptr) return nullptr;
       ListNode *curr = head, *prev=nullptr, *next = nullptr;
@@ -21,7 +22,20 @@ public:
       }
       return prev;
     }
+// ---------------------main function-------------------------
     ListNode* reverseKGroup(ListNode* head, int k) {
+      /*
+      s1 - initialize
+      s2 - grphead = temp
+      s3 - traverse temp k-1 times
+      s4 - nextHead = temp->next
+      s5 - temp->next=nullptr
+      s6 - x = reverse(grphead)
+      s7 - prev -> next = x
+      s8 - prev = grphead
+      s9 - temp = nexthead
+      s10 - repeat.
+      */
       ListNode *temp = head, *grphead=nullptr, *nexthead=nullptr,*prev=nullptr;
       bool flagforheadsaving=true;
       while(temp!=nullptr){ //temp will  become nullptr when perfect groups are formed.
