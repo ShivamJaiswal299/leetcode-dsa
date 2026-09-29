@@ -119,6 +119,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0875-koko-eating-bananas](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
@@ -144,6 +145,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -167,6 +169,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
