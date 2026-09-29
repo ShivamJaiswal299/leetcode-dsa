@@ -37,13 +37,13 @@ public:
       s10 - repeat.
       */
       ListNode *temp = head, *grphead=nullptr, *nexthead=nullptr,*prev=nullptr;
-      bool flagforheadsaving=true;
+      // bool flagforheadsaving=true;  not needed, ignore.
       while(temp!=nullptr){ //temp will  become nullptr when perfect groups are formed.
         grphead=temp;
         for(int i=1;i<=k-1;i++){
           temp=temp->next;
           if(temp==nullptr) {
-            prev->next = grphead;
+            if(prev!=nullptr) prev->next = grphead; //here if is used to deal with 1 node LL case.
             return head; //this block wont run if its a perfect grp.
           }
         }
