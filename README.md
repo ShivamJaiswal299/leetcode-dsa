@@ -34,6 +34,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
@@ -59,6 +60,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -279,6 +281,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -331,4 +334,8 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
