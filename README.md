@@ -108,6 +108,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0078-subsets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -140,6 +141,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -347,4 +349,5 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0039-combination-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
