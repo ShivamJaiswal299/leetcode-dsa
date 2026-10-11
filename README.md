@@ -118,6 +118,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0162-find-peak-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -350,4 +351,5 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0040-combination-sum-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
