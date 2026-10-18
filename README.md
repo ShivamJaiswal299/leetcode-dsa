@@ -131,6 +131,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0216-combination-sum-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -157,6 +158,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0137-single-number-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
