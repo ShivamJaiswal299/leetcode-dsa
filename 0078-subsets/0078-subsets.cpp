@@ -1,4 +1,4 @@
-//method 1 -recursive. (method 2 bit manupulation below)
+//method 1 -recursive. (method 2 bit manupulation below this method)
 class Solution {
 //LOGIC IS SIMPLE , FOR EVERY ELEMENT MAKE 2 CASES , ONE- ADDING THE CURRENT ELEMENT AND TWO- SKIPPING THE CURRENT ELEMENT MAKING THE THE TREE STRUCTURE LOOK LIKE THIS-
 /*
