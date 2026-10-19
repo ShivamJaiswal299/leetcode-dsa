@@ -15,6 +15,8 @@ public:
       j++;
     }
     return happy;
+    }
+};
 
 
     //THIS BRUTE FORCE WILL GIVE TLE
@@ -32,5 +34,3 @@ public:
     //       } 
     //     }
     //   return happy;
-    }
-};
