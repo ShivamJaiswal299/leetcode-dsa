@@ -1,3 +1,4 @@
+//method 1 -recursive.
 class Solution {
 //LOGIC IS SIMPLE , FOR EVERY ELEMENT MAKE 2 CASES , ONE- ADDING THE CURRENT ELEMENT AND TWO- SKIPPING THE CURRENT ELEMENT MAKING THE THE TREE STRUCTURE LOOK LIKE THIS-
 /*
@@ -35,3 +36,23 @@ private:
       a.push_back(element);
     }
 };
+/*
+//method 2 - bit manupulation
+class Solution {
+vector<vector<int>> powerset;
+public:
+    vector<vector<int>> subsets(vector<int>& a) {
+      vector<int> subset;
+      int digits = a.size();
+      int subsetCNT=pow(2,digits);
+      for(int i=0;i<subsetCNT;i++){
+        for(int bitidx=0; bitidx<digits; bitidx++){
+          if((i>>bitidx)&1 == 1) subset.push_back(a[bitidx]); 
+        }
+        powerset.push_back(subset);
+        subset.clear();
+      }
+      return powerset;
+    }
+};
+*/
