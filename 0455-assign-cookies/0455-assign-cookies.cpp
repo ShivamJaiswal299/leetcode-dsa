@@ -20,6 +20,7 @@ public:
 
 
     //THIS BRUTE FORCE WILL GIVE TLE
+    // int findContentChildren(vector<int>& g, vector<int>& s) {
     //   int happy = 0;
     //   sort(g.begin(), g.end());
     //   sort(s.begin(), s.end());
@@ -34,3 +35,4 @@ public:
     //       } 
     //     }
     //   return happy;
+    // }
