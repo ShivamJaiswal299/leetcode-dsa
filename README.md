@@ -75,6 +75,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0131-palindrome-partitioning](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -138,6 +139,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0260-single-number-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0493-reverse-pairs) |
@@ -210,6 +212,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0169-majority-element](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -311,6 +314,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | ------- |
 | [0055-jump-game](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
