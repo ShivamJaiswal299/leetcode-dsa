@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& a) {
         int n = a.size();
-        sort(a.begin(), a.end());//sorting is neccesary as question doesnt guarantee sorted test cases.
+        sort(a.begin(), a.end());//sorting(from 0th index) is neccesary as question doesnt guarantee sorted test cases.
         vector<vector<int>> result;
         int i=0;
         while(i<n){
