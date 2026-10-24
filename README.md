@@ -45,6 +45,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -78,6 +79,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -321,6 +323,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -328,12 +331,14 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
