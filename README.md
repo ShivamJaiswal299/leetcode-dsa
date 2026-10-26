@@ -156,6 +156,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0704-binary-search](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
+| [0999-available-captures-for-rook](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0999-available-captures-for-rook) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -245,6 +246,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0999-available-captures-for-rook](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0999-available-captures-for-rook) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -260,6 +262,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0074-search-a-2d-matrix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0999-available-captures-for-rook](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0999-available-captures-for-rook) |
 | [1901-find-a-peak-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
