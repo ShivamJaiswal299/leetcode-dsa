@@ -157,6 +157,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0860-lemonade-change](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0999-available-captures-for-rook](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0999-available-captures-for-rook) |
+| [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +270,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
@@ -298,6 +300,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -435,5 +438,6 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
