@@ -156,6 +156,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0704-binary-search](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0999-available-captures-for-rook](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -200,6 +201,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -438,6 +440,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
