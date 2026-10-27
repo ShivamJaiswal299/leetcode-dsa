@@ -1,30 +1,18 @@
 class Solution {
 public:
     int longestOnes(vector<int>& a, int k) {
-      int n = a.size();
-      int low = 0, high = 0 ;
-      int currlen = 0;
-      int maxlen = 0;
-      while(high<n){
-        if(a[high]==1){
-          currlen++;
-          high++;
-        }else if(a[high]==0){
-          if(k==0){ //as k==0 so we will remove the extra zero
-            while(a[low]==1){
-              low++;
-              currlen--;
+        int low = 0, high = 0, maxlen = 0;
+
+        while(high < a.size()) {
+          //nothing for case where value is 1 cuz there we just have to increment high.
+            if (a[high] == 0) k--; 
+            while (k < 0) { //runs only when k finishes
+                if (a[low] == 0) k++;
+                low++;
             }
-            k++;
-            low++;
-            currlen--;
-          }
-          k--;
-          currlen++;
-          high++;
+            maxlen = max(maxlen, high - low + 1);
+            high++;//in both the cases we have to increment high
         }
-        maxlen=max(maxlen,currlen);
-      }
-      return maxlen;
+        return maxlen;
     }
 };
