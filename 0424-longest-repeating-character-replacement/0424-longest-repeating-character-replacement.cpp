@@ -23,7 +23,6 @@ public:
 
         if((high-low+1) - maxfreq> k){ 
           freq[s[low]-'A']--;
-          for(int i=0;i<26;i++) maxfreq=max(maxfreq,freq[i]);
           low++;
         }
         
