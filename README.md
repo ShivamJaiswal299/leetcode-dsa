@@ -45,6 +45,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0151-reverse-words-in-a-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0796-rotate-string) |
@@ -199,6 +200,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0205-isomorphic-strings](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
@@ -440,6 +442,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
