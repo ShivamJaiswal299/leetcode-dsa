@@ -363,6 +363,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -465,4 +466,12 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1248-count-number-of-nice-subarrays](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
