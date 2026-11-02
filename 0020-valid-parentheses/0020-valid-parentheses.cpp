@@ -1,5 +1,6 @@
 class Solution {
 public:
+//logic - when opening bracket then push, else compare with the top most element
     bool isValid(string s) {
       stack<char> stk;
       string open = "({[";
