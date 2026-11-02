@@ -38,6 +38,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0008-string-to-integer-atoi](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0079-word-search) |
@@ -363,6 +364,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
@@ -372,6 +374,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
