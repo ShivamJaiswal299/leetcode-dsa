@@ -1,5 +1,7 @@
 class Solution {
 public:
+//this is just a modification of 503. Next Greater Element I
+//keypoint- when there is an circular array always think about double/twice the array.
     vector<int> nextGreaterElements(vector<int>& nums) {
       vector <int> a = nums;
       a.insert(a.end(),nums.begin(),nums.end());
