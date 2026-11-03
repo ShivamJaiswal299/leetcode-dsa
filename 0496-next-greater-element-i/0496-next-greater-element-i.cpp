@@ -1,5 +1,6 @@
 class Solution {
 public:
+// Go through nums2 from right to left, keeping a stack of numbers that could be a "next greater".For each x, pop all smaller or equal numbers (they are useless), then the stack top is x's next greater (or -1 if empty).Save the result in a map, then answer nums1 by lookup. Time: O(n + m).
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
       stack<int> stk;
       unordered_map<int,int> mp;
