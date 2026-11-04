@@ -181,6 +181,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
@@ -382,6 +383,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0907-sum-of-subarray-minimums](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -497,4 +499,5 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0496-next-greater-element-i](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
