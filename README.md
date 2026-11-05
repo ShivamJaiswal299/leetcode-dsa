@@ -375,6 +375,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
@@ -489,6 +490,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
