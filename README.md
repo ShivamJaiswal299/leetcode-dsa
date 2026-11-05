@@ -150,6 +150,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0189-rotate-array](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -408,6 +409,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
@@ -479,6 +481,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -498,6 +501,7 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -506,4 +510,12 @@ My solutions to LeetCode problems while practicing Data Structures and Algorithm
 | [0503-next-greater-element-ii](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ShivamJaiswal299/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
