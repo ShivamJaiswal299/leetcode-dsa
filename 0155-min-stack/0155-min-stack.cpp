@@ -1,12 +1,13 @@
 class MinStack {
 public:
+// make a extra stk for storing min elements.
     stack <int> stk;
     stack <int> minstk;
     MinStack() {
     }
     
     void push(int value) {
-      if(minstk.empty() || value<=minstk.top()) minstk.push(value);
+      if(minstk.empty() || value<=minstk.top()) minstk.push(value); //<= was the key detail here as we have to take all min even if they are duplicate.
       stk.push(value);
     }
     
