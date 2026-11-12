@@ -4,7 +4,7 @@ public:
         int n = a.size();
         int watertrapped = 0;
         int maxleft=0,maxright=0;
-        unordered_map<int,int> maxlefthash, maxrighthash; 
+        vector<int> maxlefthash(n), maxrighthash(n); 
         for(int i = 0;i<n;i++){
             maxleft = max(maxleft,a[i]);
             maxlefthash[i]=maxleft;
